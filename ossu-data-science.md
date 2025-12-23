@@ -1,5 +1,4 @@
-<div align="center" style="text-align: center">
-<img src="http://i.imgur.com/kYYCXtC.png" alt="Open Source Society logo"/>
+[Source](https://github.com/ossu/data-science/blob/master/README.md)
 <h3>Open Source Society University</h3>
 <p>
   :bar_chart: Path to a free self-taught education in <strong>Data Science</strong>!
@@ -9,7 +8,6 @@
     <img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg">
   </a>
 </p>
-</div>
 
 ## Contents
 
@@ -96,9 +94,9 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 
 _Students who already know basic programming in any language can skip this first course_
 
-[Introduction to programming](coursepages/intro-programming/README.md)
+[Introduction to programming](https://github.com/ossu/data-science/tree/master/coursepages/intro-programming/README.md)
 
-[Introduction to Computer Science and Programming Using Python](coursepages/intro-cs/README.md)
+[Introduction to Computer Science and Programming Using Python](https://github.com/ossu/data-science/tree/master/coursepages/intro-cs/README.md)
 
 [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
@@ -192,7 +190,7 @@ You can create something entirely new, or you can improve some tool/program that
 Students who would like more guidance in creating a project may choose to use a series of project oriented courses.
 A sample of options
 (many more are available, at this point you should be capable of identifying a series that is interesting and relevant to you)
-are available on [this page](extras/specializations.md).
+are available on [this page](https://github.com/ossu/data-science/tree/master/extras/specializations.md).
 
 ### Congratulations
 
@@ -203,7 +201,7 @@ Congratulations!
 What is next for you? The possibilities are boundless and overlapping:
 
 - Look for a job as a data scientist!
-- Check out the [readings](extras/books.md) for classic books you can read that will sharpen your skills and expand your knowledge.
+- Check out the [readings](https://github.com/ossu/data-science/tree/master/extras/books.md) for classic books you can read that will sharpen your skills and expand your knowledge.
 - Join a local data science meetup (e.g. via [meetup.com](https://www.meetup.com/)).
 - Pay attention to emerging technologies in the world of data science.
 
