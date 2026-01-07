@@ -1,18 +1,6 @@
 Goal: Bachelor's Degree in Computer Science
 Started Sep 2025
-# usu transfer completed 10/2025
-remaining after usu transfer:
-
-major courses incomplete (obvs)
-electives complete ✅
-gen ed courses remaining:
-- MATH 1280 statistics
-- MATH 1302 discrete mathematics
-- COM 2001 professional communication
-	- saylor COMM001 principles of communication?
-	- saylor BUS201 business communication?
-- PHIL 1404 ethics
-	- saylor PHIL102 or PHIL103?
+USU transfer completed 10/2025
 
 # Major Requirements: 54 credits
 - [x] CS 1111 Intro to Computer Science (Nov 2025)
