@@ -1,6 +1,6 @@
-Goal: Bachelor's Degree in Computer Science
-Started Sep 2025
-USU transfer completed 10/2025
+Goal: Bachelor's Degree in Computer Science  
+Started Sep 2025  
+USU transfer completed 10/2025  
 
 # Major Requirements: 54 credits
 - [x] CS 1111 Intro to Computer Science (Nov 2025)
